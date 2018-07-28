@@ -1,0 +1,41 @@
+char i='d';/*dhlwsh k arxikopoihsh metavlhths xarakthra*/
+
+f=new integer[50];/*dhlwsh pinaka*/
+
+f[5]=3;
+integer x;/*dhlwseis sketes*/
+
+integer z;
+
+void lala(integer x);/*dhlwsh synarthshs*/
+
+class test{/*orismos klashs*/
+
+integer x;/*metavlhtes-melh*/
+
+char y;
+
+test();/*dhlwsh construcor*/
+
+}
+
+test(){/*orismos tou construcor*/
+
+x=0;
+
+y='z';
+
+}
+
+void lala(integer x){/*orismos dhlwmenhs synarthshs*/
+
+if(x>10){
+
+z='n';
+
+}
+
+return;
+
+}
+

@@ -1,0 +1,13 @@
+#include "file.txt"
+
+integer w;/*lalakalalaka
+lalala*/
+
+loko(){
+
+return;
+
+}
+
+w=(3+5+3*8+(2+x));
+
